@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ongendap.github.io/sitemap.ongendap.gz
+Sitemap: https://ongendap.github.io/app/sitemap.ongendap.gz
+Sitemap: https://ongendap.github.io/assets/sitemap.ongendap.gz
+Sitemap: https://ongendap.github.io/css/sitemap.ongendap.gz
+Sitemap: https://ongendap.github.io/data/sitemap.ongendap.gz
+Sitemap: https://ongendap.github.io/includes/sitemap.ongendap.gz
+Sitemap: https://ongendap.github.io/item/sitemap.ongendap.gz
+Sitemap: https://ongendap.github.io/src/sitemap.ongendap.gz
